@@ -7,7 +7,7 @@ Scraper k získání volebních výsledků pro volby do Poslanecké sněmovny Č
 
 Potřebné knihovny jsou vypsané v souboru reqirements.txt, který je součástí projektu.
 pip3 --version
-pip3 install -r requirements.txt``
+pip3 install -r requirements.txt
 
 ## Aktivace virtuálního prostředí
 
